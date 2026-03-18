@@ -1,2 +1,19 @@
 _site/
 
+# macOS / Finder
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+# Static-site / local tooling artifacts
+.sass-cache/
+.cache/
+dist/
+build/
